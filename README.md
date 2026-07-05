@@ -179,7 +179,11 @@ AICTE Virtual Internship Program | 2025
 
 🐍 Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/Devadharshini3612/Devadharshini3612/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></div>---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Devadharshini3612/Devadharshini3612/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
 
 🎓 Education
 

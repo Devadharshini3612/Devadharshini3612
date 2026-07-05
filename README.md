@@ -173,9 +173,35 @@ AICTE Virtual Internship Program | 2025
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Devadharshini3612&theme=tokyo-night" alt="Contribution Graph"/></div>---
 
-🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Devadharshini3612&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/></div>---
+<div align="center">
+
+### 🥇 Best Paper Award — ICICDAQ 2026
+
+**Quantum-Inspired Algorithms for Accelerating Large-Scale Data Processing:  
+A Hybrid Quantum-Classical Framework**
+
+🎓 Rajalakshmi Institute of Technology × UTHM Malaysia
+
+<br>
+
+🛡️ **+50%** Adversarial Resistance &nbsp;&nbsp;|&nbsp;&nbsp;
+🔐 **+46%** Cryptography Performance &nbsp;&nbsp;|&nbsp;&nbsp;
+⚡ **+42%** Feature Extraction
+
+<br><br>
+
+🎯 Led the **TechRitz Technical Event**
+
+💡 Smart India Hackathon (SIH) &nbsp;•&nbsp;
+AI for Her &nbsp;•&nbsp;
+Freshathon &nbsp;•&nbsp;
+Nimurndhu Nill
+
+</div>
+
+---
 
 🐍 Contribution Snake
 
